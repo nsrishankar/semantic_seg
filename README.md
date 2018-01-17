@@ -2,6 +2,8 @@
 
 ![alt_text](seg_out/semantic_simplified.gif)
 
+Full Video (low quality): [YouTube](https://www.youtube.com/watch?v=_osdYyCk1I4&list=PLMr_u-BsTKSr5Yl5eUxjsPM3TDsJP_KJQ&index=11) 
+
 Semantic segmentation using the KITTI dataset, and can be done using three methods:
 
 ## Methods
